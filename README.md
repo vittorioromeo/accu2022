@@ -5,6 +5,6 @@ Repository for my ACCU 2022 presentations.
 
 > *(Lightning talk)*
 
-* [Slides](https://github.com/SuperV1234/accu2022/blob/master/debug_performance_matters.pdf)
+* [Slides](https://github.com/SuperV1234/accu2022/blob/main/debug_performance_matters.pdf)
 
 * [~YouTube video~](TODO)
